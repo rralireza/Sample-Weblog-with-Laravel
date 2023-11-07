@@ -1,0 +1,8 @@
+@include('client.layouts.header')
+@include('client.layouts.topbar')
+@include('client.layouts.navbar')
+@include('client.layouts.slider')
+@include('client.layouts.categoryNews')
+@include('client.layouts.tabNews')
+@include('client.layouts.mainNews')
+@include('client.layouts.footer')
